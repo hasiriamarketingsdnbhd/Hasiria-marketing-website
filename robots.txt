@@ -1,0 +1,10 @@
+# robots.txt — Hasiria Marketing Sdn Bhd
+# https://www.hasiriamarketing.com
+
+User-agent: *
+Allow: /
+Disallow: /.htaccess
+Disallow: /.env
+Disallow: /.git/
+
+Sitemap: https://www.hasiriamarketing.com/sitemap.xml
